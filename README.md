@@ -5,4 +5,4 @@ Using Rhino's Grasshopper (visual coding), I've created a Euclidian Pasta Space 
 1 - choose 3 sauces.
 2 - choose richness of the sauces.
 3 - Decide portion size.
-4 - Pastas shapes will be generated and placed on a plate with the sauces you chose.
+4 - Pastas shapes will be generated and placed on a plate with the sauces you've chosen.
